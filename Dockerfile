@@ -1,7 +1,6 @@
 FROM node:14
 
 WORKDIR /app/api/asd
-
 WORKDIR /app/api/asd
 WORKDIR /app/api/asd
 
