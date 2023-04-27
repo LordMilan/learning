@@ -1,3 +1,2 @@
-.gitattributes merge=ours
 Dockerfile merge=ours
-#test.txt merge=ours
+test.txt merge=ours
