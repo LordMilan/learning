@@ -1,2 +1,2 @@
 .gitattributes merge=ours
-merge_test merge=ours
+Dockerfile merge=ours
