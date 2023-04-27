@@ -1,7 +1,6 @@
-#DEV#
 FROM node:14
 
-WORKDIR /app/api
+WORKDIR /app
 
 COPY package.json .
 
