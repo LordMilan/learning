@@ -1,8 +1,7 @@
 FROM node:14
 
-WORKDIR /app/api/asd
-WORKDIR /app/api/asd
-WORKDIR /app/api/asd
+WORKDIR /app
+
 COPY package.json .
 
 RUN npm install
